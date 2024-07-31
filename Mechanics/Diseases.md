@@ -1,0 +1,6 @@
+- Bloody Flux (Diarrhea)
+	- Contraction: Fail an Easy (+40) Toughness Test after an infected source enters the mouth
+- Galloping Trots
+	- Contraction: Fail an Easy (+40) Toughness Test after infected source enters the mouth
+- Packer’s Pox
+	- Contraction: Fail an Easy (+40) Endurance Test after any contact with infected animals, hides, or bodies

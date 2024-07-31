@@ -1,0 +1,5 @@
+- Operations run in the docks
+- Works with the baron (The baron is an infamous crime lord)
+- Mainly smuggles normal goods
+- Sometimes smuggles evil goods…. (People, drugs, weapons etc)
+- Does periodically work with Mutant Smugglers

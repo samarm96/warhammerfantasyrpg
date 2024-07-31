@@ -1,0 +1,3 @@
+- Sergeant
+- Klug is double timing the smugglers guild and the mutants.
+- Works with smugglers gang (open secret)

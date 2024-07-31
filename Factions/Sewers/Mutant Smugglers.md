@@ -1,0 +1,4 @@
+- Smuggles warp stone
+- Smuggles weird root
+- Works with Clan Fester
+- Working to increase the political tension between Jeungfreuds and Altdorf

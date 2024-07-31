@@ -1,0 +1,2 @@
+- General Bonestash the Tenth
+- Mostly a martial clan, they are on the back foot as the upstart Clan Fester is able to attack them with surprising ferocity
